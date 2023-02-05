@@ -2,6 +2,8 @@
 First android application. Containing set of question on each gate subject. 
 MCQ android application for GATE exam.
 
+Screenshot pdf above - Gate Mock Test.pdf
+
 Work done :
 1. Splash intro
 2. Login page/Signup for new account with Reset password option (not connected to server)
